@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.9e42754d.css",
-    "main.js": "/static/js/main.3ed8ea7f.js",
+    "main.js": "/static/js/main.6657beb5.js",
     "static/media/img3.png": "/static/media/img3.68781a85690b341e38d4.png",
     "static/media/img2.png": "/static/media/img2.9713faadfb03b51bad90.png",
     "static/media/img1.png": "/static/media/img1.2befdbe3d782d6bb8155.png",
     "static/media/404 Error with a cute animal-bro.svg": "/static/media/404 Error with a cute animal-bro.61feeb2c81a7075382ae6fd99ef0bdaf.svg",
     "index.html": "/index.html",
     "main.9e42754d.css.map": "/static/css/main.9e42754d.css.map",
-    "main.3ed8ea7f.js.map": "/static/js/main.3ed8ea7f.js.map"
+    "main.6657beb5.js.map": "/static/js/main.6657beb5.js.map"
   },
   "entrypoints": [
     "static/css/main.9e42754d.css",
-    "static/js/main.3ed8ea7f.js"
+    "static/js/main.6657beb5.js"
   ]
 }
